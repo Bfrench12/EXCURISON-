@@ -1,6 +1,42 @@
-body {
-  font-family: Verdana;
-  text-align: center;
-  font-weight: lighter;
+h1 {
+  color: white;
+}
 
+
+body {
+  text-align: center;
+  font-family: Verdana;
+  background-color: black;
+}
+
+.main--header {
+  font-weight: normal;
+  font-size: 50px;
+  color: white;
+
+}
+
+.body--header {
+  font-weight: 300;
+  font-size: 42px;
+}
+
+.end--header {
+  font-weight: 300;
+  font-size: 42px;
+}
+
+.body--text {
+  font-size: 21px;
+  color: gray;
+}
+
+.link {
+  font-size: 16px;
+  color: aquamarine;
+}
+
+.copyright {
+  text-align: right;
+  color: gray;
 }
